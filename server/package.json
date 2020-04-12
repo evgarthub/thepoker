@@ -2,7 +2,7 @@
     "name": "thepocker-server",
     "version": "1.0.0",
     "description": "The pocker - multiplayer browser game ",
-    "main": "index.js",
+    "main": "dist/index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
@@ -23,5 +23,5 @@
         "@types/socket.io": "^2.1.4",
         "nodemon": "^2.0.2",
         "prettier": "^2.0.2"
-    }
+    }    
 }
